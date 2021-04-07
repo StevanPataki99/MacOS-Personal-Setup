@@ -25,6 +25,8 @@ My personal MacOS setup guide.
 - Spark
 - WebStorm
 - DataGrip
+- MSTeams
+- Messenger
 - Some app clener
 
 # Plugins
