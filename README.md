@@ -8,11 +8,29 @@ http://sourabhbajaj.com/mac-setup/
 
 After initial installation and setup:
 
-- Custom System Preferences
+- iCloud settings (disable iCloud photos backup)
+- System Preferences
 - Home screen
+- Dock(or after all apps are installed)
+- MenuBar
+- Finder preferences
 - Go through apple apps and setup the needed ones
+- Download any backedup files/folders
 
+# App Store apps to download:
 
+- Spark
+- Battery Monitor
+- Be Focused
+- Amphetamine
+
+# Xcode
+
+- Download and install Xcode from App Store
+- Install Xcode command line tools via terminal and by running this command: 
+  `xcode-select --install`
+  
+# Homebrew
 
 # TEMPORATY
 
@@ -35,7 +53,6 @@ After initial installation and setup:
 - Storyboard
 - Zoom
 - Xcode
-- Spark
 - WebStorm
 - DataGrip
 - MSTeams
@@ -44,10 +61,7 @@ After initial installation and setup:
 
 # Plugins
 
-- Battery Monitor
 - Jetbrains ToolBox
-- Be Focused
-- Amphetamine
 - Intel Power Gadget
 - Cheatsheet
 - Mac Fan Control
