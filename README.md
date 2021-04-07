@@ -1,6 +1,19 @@
 # MacOS-Personal-Setup
 My personal MacOS setup guide.
 
+This guide is loosely based on this guide:
+http://sourabhbajaj.com/mac-setup/
+
+# First Steps
+
+After initial installation and setup:
+
+- Custom System Preferences
+- Home screen
+- Go through apple apps and setup the needed ones
+
+
+
 # TEMPORATY
 
 - Homebrew
