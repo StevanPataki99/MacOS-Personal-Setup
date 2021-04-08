@@ -149,25 +149,35 @@ Lists the files in your .ssh directory, if they exist
 
 We are now ready to use SSH with GitHub!
 
-# TEMPORATY
+# VSCode setup
 
-# Programs
+- Download this extensions: 
+  Sublime Matirial theme `jprestidge.theme-material-theme` - Set theme to: `Sublime Matirial theme Dark`
+  Material Icon Theme `pkief.material-icon-theme` - Set icon theme to: `Material Icon Theme`
+  Better Comments `aaron-bond.better-comments`
+  Bracket Pair Colorizer `coenraads.bracket-pair-colorizer`
+  Colorize `kamikillerto.vscode-colorize`
+  GitLense `eamodio.gitlens`
+  Highlight Matching Tag `vincaslt.highlight-matching-tag`
+  Import Cost `wix.vscode-import-cost`
+  Open in browser `techer.open-in-browser`
+  
+- Install other extension if needed for specific dev setup
+
+# Other Programs to install manually 
 
 - Addobe XD
 - Storyboard
 
-# VSCode extensions
+# Last Steps
 
-- Sublime Matirial theme Dark
-- Material Icon Theme
-- Better Comments
-- Bracket Pair Colorizer
-- Colorize
-- GitLense
-- Highlight Matching Tag
-- Import Cost
-- open in browser
+- Launch all programs and configure them
+- After that restart Macbook to apply some changes that maybe need a restart
+- This is the end of the basic setup
+- Below are guidelines for installing specific dev environments that i use the most currently (like fullstack setup with Nodejs/React or MySql/PostgresSql setups )
 
-# Temporary
+You are Done!
 
-After initial setup and updates install following programs and configure them.
+# DEV Environments setups
+
+**Below are setups for specific dev environments setups that i currently use the most some that i use currently for work or uni or i dont use that often are writen in Notion in notebook labelled as ***Instalation Handbooks*** **
