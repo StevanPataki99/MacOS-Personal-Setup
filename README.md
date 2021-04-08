@@ -47,7 +47,6 @@ Homebrew-Cask extends Homebrew and allows you to install large binary files via 
 These plugins add support for the corresponding file type to Mac Quick Look (In Finder, mark a file and press Space to start Quick Look). The plugins includes features like syntax highlighting, Markdown rendering, preview of JSON, patch files, CSV, ZIP files and more.
 
 `brew install --cask \
-    qlcolorcode \
     qlstephen \
     qlmarkdown \
     quicklook-json \
@@ -56,41 +55,38 @@ These plugins add support for the corresponding file type to Mac Quick Look (In 
     betterzip \
     webpquicklook \
     suspicious-package`
+    
+ - Installation for other apps
+
+  `brew install --cask \
+    appcleaner \
+    cheatsheet \
+    google-chrome \
+    visual-studio-code \
+    iterm2 \
+    notion \
+    spotify \
+    postman \
+    slack \
+    skype \
+    deluge \
+    zoom \
+    jetbrains-toolbox \
+    microsoft-teams \
+    messenger \
+    intel-power-gadget \
+    macs-fan-control \
+    rectangle \
+    vlc`
 
 # TEMPORATY
 
-- Homebrew
 - ZSH
 
 # Programs
 
-- Iterm2
-- Notion
-- Chrome
-- Spotify
-- Postman
-- VSCode
-- Slack
-- Skype
-- Deluge
-- VLC
 - Addobe XD
 - Storyboard
-- Zoom
-- Xcode
-- WebStorm
-- DataGrip
-- MSTeams
-- Messenger
-- Some app clener
-
-# Plugins
-
-- Jetbrains ToolBox
-- Intel Power Gadget
-- Cheatsheet
-- Mac Fan Control
-- Rectangle
 
 # VSCode extensions
 
