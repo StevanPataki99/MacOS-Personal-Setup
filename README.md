@@ -130,12 +130,26 @@ To prevent git from asking for your username and password every time you push a 
 
 ## Git SSH
 
-- First check for existing SSH keys on your computer by running: `ls -al ~/.ssh
-# Lists the files in your .ssh directory, if they exist`
+- First check for existing SSH keys on your computer by running: `ls -al ~/.ssh`
+Lists the files in your .ssh directory, if they exist
+
+- Check the directory listing to see if you have files named either `id_rsa.pub` or `id_dsa.pub`. If you don't have either of those files then read on, otherwise skip the next section.
+- If you don't have an SSH key you need to generate one. To do that you need to run the commands below, and make sure to substitute the placeholder with your email. The default settings are preferred, so when you're asked to enter a file in which to save the key, just press Enter to continue.
+- enter this command: `ssh-keygen -t rsa -C "stevan.pataki.1999@gmail.com"`
+- Run the following commands to add your SSH key to the `ssh-agent`: `eval "$(ssh-agent -s)"`
+- If you're running macOS Sierra 10.12.2 or later, you will need to modify your `~/.ssh/config` file to automatically load keys into the ssh-agent and store passphrases in your keychain:
+`Host *
+  AddKeysToAgent yes
+  UseKeychain yes
+  IdentityFile ~/.ssh/id_rsa`
+  
+ - No matter what operating system version you run you need to run this command to complete this step: `ssh-add -K ~/.ssh/id_rsa`
+ - The last step is to let GitHub know about your SSH key so GitHub can recognize you. Run this command to copy your key to your clipboard: `pbcopy < ~/.ssh/id_rsa.pub`
+ - Then go to GitHub and input your new SSH key. Paste your key in the "Key" text-box and pick a name that represents the computer you're currently using.
+
+We are now ready to use SSH with GitHub!
 
 # TEMPORATY
-
-- git
 
 # Programs
 
