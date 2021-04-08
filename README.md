@@ -115,6 +115,19 @@ ack is a search tool designed for code. It's built to be a replacement for grep 
 To install the latest version, use homebrew:
 `brew install ack`
 
+# Git
+
+- Installation: `brew install git`
+- When done, to test that it installed properly you can run: `git --version`
+- And `which git` should output: `/usr/local/bin/git`
+- Next, we'll define your Git user (should be the same name and email you use for GitHub):
+`git config --global user.name "Your Name Here"`
+`git config --global user.email "your_email@youremail.com"`
+They will get added to your .gitconfig file.
+
+To prevent git from asking for your username and password every time you push a commit you can cache your credentials by running the following command:
+`git config --global credential.helper osxkeychain`
+
 
 # TEMPORATY
 
