@@ -131,7 +131,6 @@ To prevent git from asking for your username and password every time you push a 
 
 # TEMPORATY
 
-- ZSH
 - git
 
 # Programs
