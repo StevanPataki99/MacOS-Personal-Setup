@@ -128,6 +128,10 @@ They will get added to your .gitconfig file.
 To prevent git from asking for your username and password every time you push a commit you can cache your credentials by running the following command:
 `git config --global credential.helper osxkeychain`
 
+## Git SSH
+
+- First check for existing SSH keys on your computer by running: `ls -al ~/.ssh
+# Lists the files in your .ssh directory, if they exist`
 
 # TEMPORATY
 
