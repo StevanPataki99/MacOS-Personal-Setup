@@ -172,6 +172,7 @@ We are now ready to use SSH with GitHub!
 # Last Steps
 
 - Launch all programs and configure them
+- Setup Dock, Menubar, Desktop, Finder, Launchpad if you didn't do that earlier
 - After that restart Macbook to apply some changes that maybe need a restart
 - This is the end of the basic setup
 - Below are guidelines for installing specific dev environments that i use the most currently (like fullstack setup with Nodejs/React or MySql/PostgresSql setups )
