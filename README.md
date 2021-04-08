@@ -59,26 +59,7 @@ These plugins add support for the corresponding file type to Mac Quick Look (In 
     
  - Installation for other apps
 
-  `brew install --cask \
-    appcleaner \
-    cheatsheet \
-    google-chrome \
-    visual-studio-code \
-    iterm2 \
-    notion \
-    spotify \
-    postman \
-    slack \
-    skype \
-    deluge \
-    zoom \
-    jetbrains-toolbox \
-    microsoft-teams \
-    messenger \
-    intel-power-gadget \
-    macs-fan-control \
-    rectangle \
-    vlc`
+  `brew install --cask appcleaner cheatsheet google-chrome visual-studio-code iterm2 notion spotify postman slack skype deluge zoom jetbrains-toolbox microsoft-teams messenger intel-power-gadget macs-fan-control rectangle vlc`
 
 # TEMPORATY
 
