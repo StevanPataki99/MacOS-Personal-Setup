@@ -90,7 +90,7 @@ To apply the changes you make you need to either start new shell instance or run
 
 Add plugins to your shell by adding the name of the plugin to the `plugin` array in your `.zshrc`.
 
-'plugins=(git colored-man-pages colorize pip python brew osx zsh-syntax-highlighting zsh-autosuggestions yarn emoji emoji-clock npm npx nvm node postgres react-native vscode xcode)'
+`plugins=(git colored-man-pages colorize pip python brew osx zsh-syntax-highlighting zsh-autosuggestions yarn emoji emoji-clock npm npx nvm node postgres react-native vscode xcode)`
 
 You'll find a list of all plugins on the Oh My Zsh Wiki. Note that adding plugins can cause your shell startup time to increase.
 
