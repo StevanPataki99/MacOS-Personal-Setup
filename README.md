@@ -152,15 +152,15 @@ We are now ready to use SSH with GitHub!
 # VSCode setup
 
 - Download this extensions: 
-  Sublime Matirial theme `jprestidge.theme-material-theme` - Set theme to: `Sublime Matirial theme Dark`
-  Material Icon Theme `pkief.material-icon-theme` - Set icon theme to: `Material Icon Theme`
-  Better Comments `aaron-bond.better-comments`
-  Bracket Pair Colorizer `coenraads.bracket-pair-colorizer`
-  Colorize `kamikillerto.vscode-colorize`
-  GitLense `eamodio.gitlens`
-  Highlight Matching Tag `vincaslt.highlight-matching-tag`
-  Import Cost `wix.vscode-import-cost`
-  Open in browser `techer.open-in-browser`
+  - Sublime Matirial theme `jprestidge.theme-material-theme` - Set theme to: `Sublime Matirial theme Dark`
+  - Material Icon Theme `pkief.material-icon-theme` - Set icon theme to: `Material Icon Theme`
+  - Better Comments `aaron-bond.better-comments`
+  - Bracket Pair Colorizer `coenraads.bracket-pair-colorizer`
+  - Colorize `kamikillerto.vscode-colorize`
+  - GitLense `eamodio.gitlens`
+  - Highlight Matching Tag `vincaslt.highlight-matching-tag`
+  - Import Cost `wix.vscode-import-cost`
+  - Open in browser `techer.open-in-browser`
   
 - Install other extension if needed for specific dev setup
 
