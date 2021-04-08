@@ -59,7 +59,6 @@ These plugins add support for the corresponding file type to Mac Quick Look (In 
  - Installation for other apps
 
   `brew install --cask \
-    appcleaner \
     cheatsheet \
     google-chrome \
     visual-studio-code \
