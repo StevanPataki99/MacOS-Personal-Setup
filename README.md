@@ -64,6 +64,7 @@ These plugins add support for the corresponding file type to Mac Quick Look (In 
 # TEMPORATY
 
 - ZSH
+- git
 
 # Programs
 
