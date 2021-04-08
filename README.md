@@ -58,7 +58,9 @@ iTerm2 is an open source replacement for Apple's Terminal. It's highly customiza
 
 ## Customization
 
-
+- Download and import themes from this link: https://github.com/mbadolato/iTerm2-Color-Schemes/tree/master/schemes
+- Change the font to 14pt Source Code Pro
+- Source Code Pro can be downloaded using Homebrew: `brew tap homebrew/cask-fonts && brew install --cask font-source-code-pro`
 
 # TEMPORATY
 
