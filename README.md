@@ -79,6 +79,7 @@ Oh My Zsh is an open source, community-driven framework for managing your zsh co
 - Install Oh My Zsh: `sh -c "$(curl -fsSL https://raw.githubusercontent.com/robbyrussell/oh-my-zsh/master/tools/install.sh)"`
 - The installation script should set zsh to your default shell, but if it doesn't you can do it manually: `chsh -s $(which zsh)`
 - Add home brew to path so homebrew installed programmes will be able to run from shell: `echo 'PATH="/usr/local/bin:$PATH"' >> ~/.zshrc`
+- Import `.zshrc` file from git repo to local `.zshrc` file
 
 ### Configuration
 
@@ -94,6 +95,25 @@ Add plugins to your shell by adding the name of the plugin to the `plugin` array
 
 You'll find a list of all plugins on the Oh My Zsh Wiki. Note that adding plugins can cause your shell startup time to increase.
 
+### Themes
+
+Changing theme is as simple as changing a string in your configuration file. The default theme is robbyrussell. Just change that value to change theme, and don't forget to apply your changes.
+
+`ZSH_THEME=awesomepanda`
+
+### Tree command
+
+tree is a recursive directory listing command that produces a depth indented listing of files.
+
+To install the latest version, use homebrew:
+`brew install tree`
+
+### ack command
+
+ack is a search tool designed for code. It's built to be a replacement for grep with higher speed and more options.
+
+To install the latest version, use homebrew:
+`brew install ack`
 
 
 # TEMPORATY
