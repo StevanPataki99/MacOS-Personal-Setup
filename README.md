@@ -42,6 +42,21 @@ After initial installation and setup:
 
 Homebrew-Cask extends Homebrew and allows you to install large binary files via a command-line tool. You can for example install applications like Google Chrome, Dropbox, VLC and Spectacle.
 
+### Quick-look plugins
+
+These plugins add support for the corresponding file type to Mac Quick Look (In Finder, mark a file and press Space to start Quick Look). The plugins includes features like syntax highlighting, Markdown rendering, preview of JSON, patch files, CSV, ZIP files and more.
+
+`brew install --cask \
+    qlcolorcode \
+    qlstephen \
+    qlmarkdown \
+    quicklook-json \
+    qlprettypatch \
+    quicklook-csv \
+    betterzip \
+    webpquicklook \
+    suspicious-package`
+
 # TEMPORATY
 
 - Homebrew
