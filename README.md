@@ -52,6 +52,14 @@ These plugins add support for the corresponding file type to Mac Quick Look (In 
 
   `brew install --cask appcleaner cheatsheet google-chrome visual-studio-code iterm2 notion spotify postman slack skype deluge zoom jetbrains-toolbox microsoft-teams messenger intel-power-gadget macs-fan-control rectangle vlc`
 
+# iTerm2
+
+iTerm2 is an open source replacement for Apple's Terminal. It's highly customizable and comes with a lot of useful features.
+
+## Customization
+
+
+
 # TEMPORATY
 
 - ZSH
