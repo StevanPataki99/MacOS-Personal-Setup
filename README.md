@@ -167,7 +167,6 @@ We are now ready to use SSH with GitHub!
 # Other Programs to install manually 
 
 - Addobe XD
-- Storyboard
 
 # Last Steps
 
