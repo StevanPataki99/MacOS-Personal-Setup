@@ -48,7 +48,7 @@ These plugins add support for the corresponding file type to Mac Quick Look (In 
 
 `brew install --cask qlcolorcode qlstephen qlmarkdown quicklook-json qlprettypatch quicklook-csv betterzip webpquicklook suspicious-package`
     
- - Installation for other apps
+### Main apps installation
 
   `brew install --cask appcleaner cheatsheet google-chrome visual-studio-code iterm2 notion spotify postman slack skype deluge zoom jetbrains-toolbox microsoft-teams messenger intel-power-gadget macs-fan-control rectangle vlc`
 
