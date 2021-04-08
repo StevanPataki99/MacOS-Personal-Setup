@@ -35,8 +35,13 @@ After initial installation and setup:
 - Before installation you must install Xcode command line tools
 - Install homebrew via terminal by running this command: `/bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install.sh)"`
 - Add home brew to path so homebrew installed programmes will be able to run from shell (this time i will run it in bash_profile but after zsh installation i need to run it again in zsh): `echo 'PATH="/usr/local/bin:$PATH"' >> ~/.bash_profile`
-- to see if everything is working restart terminal and run: `brew doctor`
-- 
+- To see if everything is working restart terminal and run: `brew doctor`
+- More info about homebrew in Notion file
+
+## Homebrew cask
+
+Homebrew-Cask extends Homebrew and allows you to install large binary files via a command-line tool. You can for example install applications like Google Chrome, Dropbox, VLC and Spectacle.
+
 # TEMPORATY
 
 - Homebrew
