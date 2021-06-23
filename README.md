@@ -100,6 +100,10 @@ You'll find a list of all plugins on the Oh My Zsh Wiki. Note that adding plugin
 
 Powerlevel10k is cool plugin/theme for iterm.
 
+For installation follow the `Manual guide` on this link:
+
+https://github.com/romkatv/powerlevel10k#oh-my-zsh
+
 If powerlevel10k dosent work then setup regular theme from section below.
 
 ### Themes
