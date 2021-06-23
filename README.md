@@ -96,6 +96,12 @@ Add plugins to your shell by adding the name of the plugin to the `plugin` array
 
 You'll find a list of all plugins on the Oh My Zsh Wiki. Note that adding plugins can cause your shell startup time to increase.
 
+### Powerlevel10k
+
+Powerlevel10k is cool plugin/theme for iterm.
+
+If powerlevel10k dosent work then setup regular theme from section below.
+
 ### Themes
 
 Changing theme is as simple as changing a string in your configuration file. The default theme is robbyrussell. Just change that value to change theme, and don't forget to apply your changes.
