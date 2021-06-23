@@ -102,7 +102,7 @@ Powerlevel10k is cool plugin/theme for iterm.
 
 For installation follow the `Manual guide` on this link:
 
-https://github.com/romkatv/powerlevel10k#oh-my-zsh
+https://github.com/romkatv/powerlevel10k
 
 If powerlevel10k dosent work then setup regular theme from section below.
 
