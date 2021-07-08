@@ -174,6 +174,7 @@ We are now ready to use SSH with GitHub!
   - Highlight Matching Tag `vincaslt.highlight-matching-tag`
   - Import Cost `wix.vscode-import-cost`
   - Open in browser `techer.open-in-browser`
+  - Error Lens `usernamehw.errorlens`
   
 - Install other extension if needed for specific dev setup
 
