@@ -178,6 +178,22 @@ We are now ready to use SSH with GitHub!
   
 - Install other extension if needed for specific dev setup
 
+## VSCode settings JSON:
+
+``` 
+{
+    "workbench.iconTheme": "material-icon-theme",
+    "workbench.colorTheme": "GitHub Dark",
+    "editor.fontFamily": "'JetBrains Mono', Menlo, Monaco, 'Courier New', monospace",
+    "editor.fontSize": 14,
+    "errorLens.severityText": [
+        "ERROR",
+        "WARNING"
+    ],
+    "editor.minimap.enabled": false
+}
+```
+
 # Other Programs to install manually 
 
 - Addobe XD
