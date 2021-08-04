@@ -24,6 +24,11 @@ After initial installation and setup:
 - Be Focused
 - Amphetamine
 
+# Apps to download from internet:
+
+- Logitech Options
+- Ghub
+
 # Xcode
 
 - Download and install Xcode from App Store
