@@ -167,7 +167,7 @@ We are now ready to use SSH with GitHub!
 
 # VSCode setup
 
-Login to Github via VSCode Sync to skip or speed up process below or if you want to setup VSCode manually follow instructions below.
+Login to Github via VSCode Sync to skip or speed up the process or if you want to setup VSCode manually follow instructions below.
 
 - Download this extensions: 
   - Font `https://www.jetbrains.com/lp/mono/` - Set font to: `JetBrains Mono` and font size to `14px`
