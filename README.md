@@ -8,6 +8,7 @@ http://sourabhbajaj.com/mac-setup/
 
 After initial installation and setup:
 
+- Check for MacOS updates
 - iCloud settings (disable iCloud photos backup)
 - System Preferences
 - Home screen
