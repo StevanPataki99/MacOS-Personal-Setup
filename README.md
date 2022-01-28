@@ -40,6 +40,8 @@ After initial installation and setup:
 
 - Install Rosseta 2 via terminal command for x86_64 translation:
   `/usr/sbin/softwareupdate --install-rosetta --agree-to-license`
+- Create Rosseta-Terminal for running x86_64 terminal commands and programs: 
+  `Go to your “Applications” folder on Finder → right click Terminal in the “Utilities” folder → Duplicate → rename to “Rosetta Terminal” → Get Info → Open using Rosetta`
 
 # Homebrew
 
