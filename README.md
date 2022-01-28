@@ -35,7 +35,12 @@ After initial installation and setup:
 - Download and install Xcode from App Store
 - Install Xcode command line tools via terminal and by running this command: 
   `xcode-select --install`
-  
+
+# Rosseta 2 & Rosseta-Terminal
+
+- Install Rosseta 2 via terminal command for x86_64 translation:
+  `/usr/sbin/softwareupdate --install-rosetta --agree-to-license`
+
 # Homebrew
 
 - Before installation you must install Xcode command line tools
