@@ -29,6 +29,7 @@ After initial installation and setup:
 
 - Logitech Options
 - Ghub
+- Messenger
 
 # Xcode
 
