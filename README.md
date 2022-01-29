@@ -238,7 +238,7 @@ IDE's to install via jetbrains toolbox:
 
 Node.js is a JavaScript runtime built on Chrome's V8 JavaScript engine.
 
-### Install nvm
+## Install nvm
 
 Nvm is short for node-version-manager it is used to install and manage multiple node versions
 
@@ -247,7 +247,7 @@ install nvm by running this command:
 
 Follow any directions as stated by the installer (e.g. editing the `~/.zshrc file`).
 
-### Install Node via nvm
+## Install Node via nvm
 
 Install most recent NodeJS version via nvm by running this command:
 
@@ -256,40 +256,10 @@ Install most recent NodeJS version via nvm by running this command:
 Or install specific node version (in this case node 16) by running this command:
 `nvm install 16`
 
-### NodeJS ENV setup
+### Yarn
 
 Install yarn by running this command: `npm install -g yarn`
 
+### NestJS
+
 Install nest cli by running this command: `npm install -g @nestjs/cli`
-
-# MySQL Setup (Backend)
-
-MySQL is sql database to install mysql run:
-
-`brew install node mysql`
-
-### After installation you will get theses messages:
-
-  We've installed your MySQL database without a root password. To secure it run:
-      `mysql_secure_installation`
-
-  MySQL is configured to only allow connections from localhost by default
-
-  To connect run:
-      `mysql -uroot`
-
-  To have launchd start mysql now and restart at login:
-    `brew services start mysql`
-  Or, if you don't want/need a background service you can just run:
-    `mysql.server start`
-  To stop the server run:
-    `mysql.server stop`
-    
-### MySQL Workbench
-
-Used for editing schemes and running sql queries on sql servers.
-
-To install MySQL Workbench run:
-
-`brew install --cask mysqlworkbench`
-    
