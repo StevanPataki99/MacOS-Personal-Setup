@@ -181,6 +181,7 @@ Login to Github via VSCode Sync to skip or speed up the process or if you want t
 
 - Download this extensions: 
   - Font `https://www.jetbrains.com/lp/mono/` - Set font to: `JetBrains Mono` and font size to `14px`
+  - Or run two brew commands: `brew tap homebrew/cask-fonts` and `brew install font-jetbrains-mono`
   - Sublime Matirial theme `jprestidge.theme-material-theme` - Set theme to: `Sublime Matirial theme Dark`
   - (Alternative) Sublime Matirial theme `github.github-vscode-theme` - Set theme to: `GitHub Dark`
   - Material Icon Theme `pkief.material-icon-theme` - Set icon theme to: `Material Icon Theme`
