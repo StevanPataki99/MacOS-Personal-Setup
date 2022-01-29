@@ -49,7 +49,13 @@ After initial installation and setup:
 - Before installation you must install Xcode command line tools
 - Install homebrew via terminal by running this command: `/bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install.sh)"`
 - Run command above in regular terminal and rosseta-terminal so i can install both x86_64 and arm64 applications via homebrew
-- Add home brew to path so homebrew installed programmes will be able to run from shell (this time i will run it in bash_profile but after zsh installation i need to run it again in zsh): `echo 'PATH="/usr/local/bin:$PATH"' >> ~/.bash_profile`
+- After zsh installation and if you want in bash add path to ARM Homebrew by adding this line in (zsh: `~/.zshrc` bash: `~/.bash_profile`): `export PATH="/opt/homebrew/bin:/usr/local/bin:$PATH"`
+- And if you want to have access to x86_64 based cask's add this alias for x86_64 based Homebrew in zsh `~/.zshrc`: `brewr: aliased to arch -x86_64 /usr/local/bin/brew`
+- Test if both Brew's work by running this commmands: `$ which brew
+/opt/homebrew/bin/brew
+
+$ which brewr2
+brewr2: aliased to arch -x86_64 /usr/local/bin/brew`
 - To see if everything is working restart terminal and run: `brew doctor`
 - More info about homebrew in Notion file
 
