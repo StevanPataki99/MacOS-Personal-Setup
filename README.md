@@ -51,11 +51,7 @@ After initial installation and setup:
 - Run command above in regular terminal and rosseta-terminal so i can install both x86_64 and arm64 applications via homebrew
 - After zsh installation and if you want in bash add path to ARM Homebrew by adding this line in (zsh: `~/.zshrc` bash: `~/.bash_profile`): `export PATH="/opt/homebrew/bin:/usr/local/bin:$PATH"`
 - And if you want to have access to x86_64 based cask's add this alias for x86_64 based Homebrew in zsh `~/.zshrc`: `brewr: aliased to arch -x86_64 /usr/local/bin/brew`
-- Test if both Brew's work by running this commmands: `$ which brew
-/opt/homebrew/bin/brew
-
-$ which brewr2
-brewr2: aliased to arch -x86_64 /usr/local/bin/brew`
+- Test if both Brew's work by running this commmands: for arm `$ which brew`, for x86_64 `$ which brewr2` and check if they return correct paths
 - To see if everything is working restart terminal and run: `brew doctor`
 - More info about homebrew in Notion file
 
