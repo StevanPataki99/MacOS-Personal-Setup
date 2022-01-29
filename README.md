@@ -238,8 +238,21 @@ IDE's to install via jetbrains toolbox:
 
 Node.js is a JavaScript runtime built on Chrome's V8 JavaScript engine.
 
-### Using Homebrew
-`brew install node`
+### Install nvm
+
+Nvm is short for node-version-manager it is used to install and manage multiple node versions
+
+install nvm by running this command:
+`sh -c "$(curl -fsSL https://raw.github.com/ohmyzsh/ohmyzsh/master/tools/install.sh)"`
+
+### Install Node via nvm
+
+Install most recent NodeJS version via nvm by running this command:
+
+`nvm install node`
+
+Or install specific node version (in this case node 16) by running this command:
+`nvm install 16`
 
 # MySQL Setup (Backend)
 
