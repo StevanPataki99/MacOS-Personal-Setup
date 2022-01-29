@@ -226,6 +226,14 @@ You are Done!
 
 **Below are setups for specific dev environments setups that i currently use the most some that i use currently for work or uni or i dont use that often are writen in Notion in notebook labelled as** ***Instalation Handbooks*** 
 
+# IDE's
+
+Install JetBrains IDE's for needed development workflows
+
+IDE's to install via jetbrains toolbox:
+  - WebStorm
+  - DataGrip
+
 # NodeJS (Backend)
 
 Node.js is a JavaScript runtime built on Chrome's V8 JavaScript engine.
