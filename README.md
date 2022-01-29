@@ -211,10 +211,6 @@ Login to Github via VSCode Sync to skip or speed up the process or if you want t
 }
 ```
 
-# Other Programs to install manually 
-
-- Addobe XD
-
 # Last Steps
 
 - Launch all programs and configure them
