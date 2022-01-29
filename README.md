@@ -267,3 +267,5 @@ Install nest cli by running this command: `npm install -g @nestjs/cli`
 # Docker Desktop (Backend)
 
 Install docker-desktop by running this command: `brew install --cask docker`
+
+After installation launch Docker Desktop and configure settings.
