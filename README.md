@@ -243,7 +243,9 @@ Node.js is a JavaScript runtime built on Chrome's V8 JavaScript engine.
 Nvm is short for node-version-manager it is used to install and manage multiple node versions
 
 install nvm by running this command:
-`sh -c "$(curl -fsSL https://raw.github.com/ohmyzsh/ohmyzsh/master/tools/install.sh)"`
+`curl -o- https://raw.githubusercontent.com/nvm-sh/nvm/v0.37.2/install.sh | bash`
+
+Follow any directions as stated by the installer (e.g. editing the `~/.zshrc file`).
 
 ### Install Node via nvm
 
