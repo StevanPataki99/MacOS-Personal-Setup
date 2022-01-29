@@ -60,8 +60,12 @@ After initial installation and setup:
 Homebrew-Cask extends Homebrew and allows you to install large binary files via a command-line tool. You can for example install applications like Google Chrome, Dropbox, VLC and Spectacle.
 
 ### Main apps installation
+  
+  
 
-  `brew install --cask appcleaner cheatsheet google-chrome visual-studio-code iterm2 notion spotify postman slack skype deluge zoom jetbrains-toolbox microsoft-teams messenger intel-power-gadget macs-fan-control rectangle sourcetree vlc tldr`
+  Arm based apps: `brew install --cask iterm2 notion spotify rectangle cheatsheet google-chrome visual-studio-code postman paw fork slack jetbrains-toolbox vlc tldr macs-fan-control`
+  
+  x86_64 based apps: `brewr install --cask deluge microsoft-teams messenger steam`
 
 # iTerm2
 
