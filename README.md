@@ -256,6 +256,12 @@ Install most recent NodeJS version via nvm by running this command:
 Or install specific node version (in this case node 16) by running this command:
 `nvm install 16`
 
+### NodeJS ENV setup
+
+Install yarn by running this command: `npm install -g yarn`
+
+Install nest cli by running this command: `npm install -g @nestjs/cli`
+
 # MySQL Setup (Backend)
 
 MySQL is sql database to install mysql run:
