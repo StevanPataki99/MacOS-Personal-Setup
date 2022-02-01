@@ -260,6 +260,10 @@ Or install specific node version (in this case node 16) by running this command:
 
 Install yarn by running this command: `npm install -g yarn`
 
+### TypeScript
+
+Install Typescript compailer by running this command: `npm install -g typescript`
+
 ### NestJS
 
 Install nest cli by running this command: `npm install -g @nestjs/cli`
