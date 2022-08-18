@@ -24,6 +24,8 @@ After initial installation and setup:
 - Battery Monitor
 - Be Focused
 - Amphetamine
+- Instapaper
+- Instapaper Save
 
 # Apps to download from internet:
 
@@ -63,7 +65,7 @@ Homebrew-Cask extends Homebrew and allows you to install large binary files via 
   
   
 
-  Arm based apps: `brew install --cask iterm2 notion spotify rectangle cheatsheet google-chrome visual-studio-code postman paw fork slack jetbrains-toolbox vlc tldr macs-fan-control todoist`
+  Arm based apps: `brew install --cask iterm2 notion spotify rectangle cheatsheet google-chrome visual-studio-code postman paw fork slack jetbrains-toolbox vlc tldr macs-fan-control todoist fantastical`
   
   x86_64 based apps: `brewr install --cask deluge microsoft-teams messenger steam`
 
