@@ -26,6 +26,7 @@ After initial installation and setup:
 - Amphetamine
 - Instapaper
 - Instapaper Save
+- 1Password
 
 # Apps to download from internet:
 
