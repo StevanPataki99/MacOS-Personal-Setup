@@ -66,7 +66,7 @@ Homebrew-Cask extends Homebrew and allows you to install large binary files via 
   
   
 
-  Arm based apps: `brew install --cask iterm2 notion spotify rectangle cheatsheet google-chrome visual-studio-code postman paw fork slack jetbrains-toolbox vlc tldr macs-fan-control todoist fantastical`
+  Arm based apps: `brew install --cask iterm2 notion spotify rectangle cheatsheet google-chrome visual-studio-code postman paw fork slack jetbrains-toolbox vlc tldr macs-fan-control todoist fantastical arc raycast`
   
   x86_64 based apps: `brewr install --cask deluge microsoft-teams messenger steam`
 
